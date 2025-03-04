@@ -1,7 +1,7 @@
 body {
-  font-family: Arial, sans-serif
+  font-family: Arial, sans-serif;
   color: #333;
-  background-color: #9f9f9;
+  background-color: #f9f9f9;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -55,7 +55,7 @@ p {
 }
   
 a {
-  color: #4CAF50
+  color: #4CAF50;
   text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ a:hover {
   text-decoration: underline;
 }
 img {
-  border:n 5px solid #4CAF50
+  border:n 5px solid #4CAF50;
   border-radius: 10px;
 }
 
